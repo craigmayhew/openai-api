@@ -17,9 +17,9 @@ check [official API reference](https://platform.openai.com/docs/api-reference)
 |Completions|✔️|
 |Chat|✔️|
 |Edits|✔️|
-|Images|✔️|
+|Images|❌|
 |Embeddings|✔️|
-|Audio|✔️|
+|Audio|❌|
 |Files|❌|
 |Fine-tunes|❌|
 |Moderations|❌|
